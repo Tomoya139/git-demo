@@ -14,5 +14,6 @@ hellow, git!
 hellow, git!
 hellow, git!
 hellow, git!
+<<<<<<< HEAD
 hellow, git! master test
-hellow, git!
+hellow, git! hot-fix test
